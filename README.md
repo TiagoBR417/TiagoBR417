@@ -15,7 +15,7 @@
 <tr>
 <td width="65%" valign="top">
 <img src="https://meus-stats-github.vercel.app/api?username=TiagoBR417&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-<img src="https://meus-stats-github.vercel.app/api/top-langs?username=TiagoBR417&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
+<img src="https://meus-stats-github.vercel.app/api/top-langs?username=TiagoBR417&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </td>
 <td width="35%" valign="center" align="center">
   <img src="gif_github.gif" width="90%" alt="O meu avatar animado" />
