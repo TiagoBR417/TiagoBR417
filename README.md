@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1907" height="961" alt="image" src="https://github.com/user-attachments/assets/77076c55-c822-4397-a98b-f763bb991ed2" />## Hi there 👋
 
 <!--
 **TiagoBR417/TiagoBR417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoBR417&theme=radical&show_icons=true&hide_border=false" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoBR417&theme=radical&layout=compact&hide_border=false" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://meus-stats-github.vercel.app/api?username=TiagoBR417&theme=radical&show_icons=true&hide_border=false" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://meus-stats-github.vercel.app/api/top-langs/?username=TiagoBR417&theme=radical&layout=compact&hide_border=false" alt="Linguagens Mais Usadas" />
 </div>
